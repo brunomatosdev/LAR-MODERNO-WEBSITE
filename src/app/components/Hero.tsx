@@ -21,7 +21,7 @@ export default async function Hero() {
           </h1>
           <p className="max-w-md leading-relaxed text-gray-500 xl:text-lg">
             Vendemos apenas os produtos mais exclusivos e de alta qualidade para
-            si. Somos os melhores, por isso venha fazer compras connosco!
+            si. Somos os melhores, por isso venha fazer compras connosco.
           </p>
         </div>
 
