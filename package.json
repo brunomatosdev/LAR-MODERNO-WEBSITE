@@ -21,12 +21,15 @@
     "next-sanity": "^8.0.2",
     "react": "^18",
     "react-dom": "^18",
+    "sanity": "^3.30.0",
     "stripe": "^14.18.0",
+    "styled-components": "^6.1.8",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "use-shopping-cart": "^3.2.0"
   },
   "devDependencies": {
+    "@sanity/eslint-config-studio": "^3.0.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
