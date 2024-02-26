@@ -8,7 +8,7 @@ import ShoppingCartModal from "./components/ShoppingCartModal";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lar Moderno",
+  title: "Lar Bazar",
   description: "Os Melhores Produtos Para a Sua casa!",
 };
 
